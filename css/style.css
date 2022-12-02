@@ -58,4 +58,8 @@ body {
   fill: white;
 }
 
+.hide {
+  display: none !important;
+}
+
 /*# sourceMappingURL=style.css.map */
